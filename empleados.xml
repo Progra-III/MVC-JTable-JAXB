@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empleados>
+    <empleado>
+        <id>1111</id>
+        <nombre>Marcos Ramirez</nombre>
+        <salario>85000</salario>
+    </empleado>
+    <empleado>
+        <id>2222</id>
+        <nombre>Pedro Juarez</nombre>
+        <salario>55000</salario>
+    </empleado>
+    <empleado>
+        <id>3333</id>
+        <nombre>Maria dobles</nombre>
+        <salario>98000</salario>
+    </empleado>
+    <empleado>
+        <id>4444</id>
+        <nombre>Juan Castro</nombre>
+        <salario>62000</salario>
+    </empleado>
+    <empleado>
+        <id>5555</id>
+        <nombre>Antonieta Flores</nombre>
+        <salario>83300</salario>
+    </empleado>
+    <empleado>
+        <id>6666</id>
+        <nombre>Juana Lopez</nombre>
+        <salario>12400</salario>
+    </empleado>
+    <empleado>
+        <id>7777</id>
+        <nombre>Hugo Barrientos</nombre>
+        <salario>87500</salario>
+    </empleado>
+</empleados>
